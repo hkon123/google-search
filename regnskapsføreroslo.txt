@@ -1,0 +1,2 @@
+page1: https://www.google.com/search?ei=eEDwXKPtMujmrgSG-ICoCg&q=regnskapsf%C3%B8rer+oslo&oq=regnskapsf%C3%B8rer+oslo&gs_l=psy-ab.3..0i71l8.0.0..123644...0.0..0.0.0.......0......gws-wiz.EZPrdvU61Yg
+page2: https://www.google.com/search?q=regnskapsf%C3%B8rer+oslo&ei=9UDwXNf4A4bMrgS_p6OgAw&start=10&sa=N&ved=0ahUKEwiXx63Zj8TiAhUGposKHb_TCDQQ8tMDCI8C&biw=1280&bih=610
